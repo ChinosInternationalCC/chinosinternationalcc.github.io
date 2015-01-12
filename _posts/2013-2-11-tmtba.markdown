@@ -11,7 +11,7 @@ categories: digital-and-interactive-art
 [link]: http://www.themachinetobeanother.org
 <br/>
 
-![]({{ site.url }}/assets/img/tmtba.png)
+![]({{ site.url }}/assets/tmtba.png)
 
 
 Installation/Performance/Experiment that recreates the neuroscience experiment of “embodiement” (where the users using virtual reality glasses see themselves as anohter person – including if the persons has different gender or physical type). The installation invites the users to experience different realities. For example: an anarchist can experience to be a policeman, a racist can experience to be someone that has suffered from racism, a violent husband can experience to be a fragile woman. The project has being developed at Pompeu Fabra University and as selected as for an artistic residence at L’estruch – Sabadell /Spain. Designed by Be Another Lab leaded by Philippe Bertrand, Daniel González-Franco, Marte Roel y Jordi Planas.<br/><br/>
