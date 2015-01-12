@@ -6,7 +6,7 @@ categories: digital-and-interactive-art
 ---
 ####Aaron Swartz Tribute presented on Micro Mutek Barcelona 09/02/2013.<br/><br/>
 
-![]({{ site.url }}/_assets/img/tribute1.jpg)<br/><br/>
+![]({{ site.github_assets }}/_assets/img/tribute1.jpg)<br/><br/>
 
 Interactive installation connected to the Web that allows users to control a robotic arm through Twitter that pays a tribute to Aaaron Swartz – Web developer and activist of open knowledge and Internet freedom that has suicided in 2013. Every time the user activate the piece by using the hashtag #OpenTeaching the robot sends an email to teachers inviting them to post their classroom lectures on Web.<br/><br/>
 
