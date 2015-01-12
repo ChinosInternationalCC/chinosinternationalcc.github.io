@@ -6,6 +6,12 @@ categories: digital-and-interactive-art
 ---
 ####Unstable Interactive art. 2012.<br/><br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lectus enim, scelerisque id ornare porta, rutrum vel nunc. Suspendisse et est orci. Nunc pretium mauris pretium, cursus leo sed, aliquet nunc. Etiam non enim ex. Mauris est dui, ullamcorper ac dui a, aliquet sagittis risus. Cras rhoncus eros sit amet risus auctor ullamcorper. Nunc et sapien consectetur, dictum mauris at, gravida augue. In ornare pharetra consectetur. Cras efficitur justo quis ultricies molestie. Quisque at ante nec lacus imperdiet ornare vitae a enim. Etiam nec convallis magna. Ut ac diam non elit gravida pellentesque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+![]({{ site.url }}/assets/img/funambulista.png)<br/><br/>
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse feugiat risus id tristique mollis. Vivamus felis velit, accumsan sed dui quis, vulputate malesuada odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id congue mauris, a tempor lectus. Integer consequat quis nisl sed feugiat. Etiam sed pharetra justo. Pellentesque molestie porttitor mi at consequat. Vivamus at convallis urna. Mauris pharetra facilisis quam eu tincidunt. Vivamus ac nibh ante. Fusce vitae sapien metus. Nulla efficitur felis justo, ut pellentesque nisl porta nec. Nulla cursus mi eu turpis ullamcorper, eget maximus nunc ullamcorper.
+Funambulista is a playful installation but has the intention to question the daily nature of our lives in western world society, and to raise awareness of the number of commercial and political intrusions we experience daily in our lives. The piece invites the user to be a tight rope walker traveling unstably over the world. A bar is placed above a Google Earth projection on the floor. The user walks on the bar controlling the map with her movements. If she falls down, the map is zoomed in to the coordinates where she is standing and receives audiovisual representations of legal terms and conditions.<br/><br/>
+
+<iframe src="http://player.vimeo.com/video/54769693?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="100%" height="400"></iframe><br/><br/>
+
+{:.center}
+![]({{ site.url }}/assets/img/funambulista_planta.png)
+<br/><br/>

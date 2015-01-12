@@ -4,8 +4,16 @@ title:  "THE MACHINE TO BE ANOTHER"
 date:   2013-2-11 00:00:00
 categories: digital-and-interactive-art
 ---
-####Aaron Swartz Tribute presented on Micro Mutek Barcelona 09/02/2013.<br/><br/>
+####What woud be like to see through the eyes of another?<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lectus enim, scelerisque id ornare porta, rutrum vel nunc. Suspendisse et est orci. Nunc pretium mauris pretium, cursus leo sed, aliquet nunc. Etiam non enim ex. Mauris est dui, ullamcorper ac dui a, aliquet sagittis risus. Cras rhoncus eros sit amet risus auctor ullamcorper. Nunc et sapien consectetur, dictum mauris at, gravida augue. In ornare pharetra consectetur. Cras efficitur justo quis ultricies molestie. Quisque at ante nec lacus imperdiet ornare vitae a enim. Etiam nec convallis magna. Ut ac diam non elit gravida pellentesque. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+[http://www.themachinetobeanother.org][link]
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse feugiat risus id tristique mollis. Vivamus felis velit, accumsan sed dui quis, vulputate malesuada odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id congue mauris, a tempor lectus. Integer consequat quis nisl sed feugiat. Etiam sed pharetra justo. Pellentesque molestie porttitor mi at consequat. Vivamus at convallis urna. Mauris pharetra facilisis quam eu tincidunt. Vivamus ac nibh ante. Fusce vitae sapien metus. Nulla efficitur felis justo, ut pellentesque nisl porta nec. Nulla cursus mi eu turpis ullamcorper, eget maximus nunc ullamcorper.
+[link]: http://www.themachinetobeanother.org
+<br/>
+
+![]({{ site.url }}/assets/img/tmtba.png)
+
+
+Installation/Performance/Experiment that recreates the neuroscience experiment of “embodiement” (where the users using virtual reality glasses see themselves as anohter person – including if the persons has different gender or physical type). The installation invites the users to experience different realities. For example: an anarchist can experience to be a policeman, a racist can experience to be someone that has suffered from racism, a violent husband can experience to be a fragile woman. The project has being developed at Pompeu Fabra University and as selected as for an artistic residence at L’estruch – Sabadell /Spain. Designed by Be Another Lab leaded by Philippe Bertrand, Daniel González-Franco, Marte Roel y Jordi Planas.<br/><br/>
+
+<iframe src="http://player.vimeo.com/video/52845462?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="100%" height="400"></iframe><br/><br/>

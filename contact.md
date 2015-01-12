@@ -4,11 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-###[chinos.international@gmail.com][email]
+[chinos.international@gmail.com][email]
 
-###[GITHUB][gh]
+[GITHUB][gh]
 
-###[FACEBOOK][fb]
+[FACEBOOK][fb]
 
 [email]: chinos.international@gmail.com
 [gh]: https://github.com/chinosInternationalCC

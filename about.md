@@ -6,7 +6,9 @@ permalink: /about/
 
 <p>Art in the name of science &amp; Low budget technology for a better world. We provide complicated technical solutions to simple acts of piracy. Anyone can be a chino. China can be open source.</p>
 <br>
-<h4>EXHIBITIONS:</h4>
+
+<h2>EXHIBITIONS:</h2>
+
 <ul>
 <li><a target="_blank" href="https://vimeo.com/67030695" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://vimeo.com']);">Instal·lació vídeo-màpping</a> per a la cloenda de la Setmana Cultural de l&#8217;Escola d&#8217;Art i Disseny de Tortosa. Escola d&#8217;Art i Disseny de Tortosa, Tortosa, 24/05/2013</li>
 <li>Paperjam, Daos Club, Timisoara (Rumania) 02/05/2013</li>
@@ -15,17 +17,17 @@ permalink: /about/
 <li>Open mic sessions 1, Corretger 5 Gallery, BCN, 15/12/2012 <a href="https://www.facebook.com/events/434131486641948/?ref=22" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" target="_blank">+</a></li>
 <li>Supernova T-34, P52, BCN, 16/11/2012 <a href="https://www.facebook.com/events/421286761254030/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" target="_blank">+</a></li>
 </ul>
-<h4>FESTIVALS:</h4>
+<h2>FESTIVALS:</h2>
 <ul>
 <li>Cau d&#8217;Orellla, Freedonia, BCN, 22/03/2013</li>
 <li>Micro-Muteck, BCN, 9/02/2013 <a href="https://www.facebook.com/events/306764999446826/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);" target="_blank">+</a></li>
 </ul>
-<h4>WORKSHOPS:</h4>
+<h2>WORKSHOPS:</h2>
 <ul>
 <li>TV-Oscil·loscopi: Hackejant el Hardware, Escola d&#8217;Art i Disseny de Tortosa, Tortosa, 26/04/2013</li>
 <li>TV-Oscilloscope, TTwister gallery, BCN, 28/02/2013 <a href="https://www.facebook.com/events/156963477794899/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.facebook.com']);">+</a></li>
 </ul>
-<h4>CONFERENCES:</h4>
+<h2>CONFERENCES:</h2>
 <ul>
 <li>&#8220;Estratègies de profanació del dispositiu virtual en l&#8217;era post-digital&#8221;, Escola d&#8217;Art i Disseny de Tortosa. <a href="http://jordiplanas.net/article/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://jordiplanas.net']);">+</a></li>
 </ul>
