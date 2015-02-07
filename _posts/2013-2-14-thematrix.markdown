@@ -6,4 +6,4 @@ categories: digital-and-interactive-art
 ---
 ####Light cube constructed of leds, mirrors & arduino.<br/><br/>
 
-<iframe src="http://player.vimeo.com/video/56522784?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="100%" height="350"></iframe><br/><br/>
+<iframe src="http://player.vimeo.com/video/56522784?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="100%" height="450"></iframe><br/><br/>
